@@ -1,3 +1,5 @@
 Big data
 hadoop
 aws
+
+Hive data warehouse
